@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"  android:icon="@drawable/home" android:id="@+id/home"></item>
+    <item android:title="Assign" android:id="@+id/assign" android:icon="@drawable/addtask"></item>
+    <item android:title="Profile" android:id="@+id/profile" android:icon="@drawable/profile"></item>
+    <item android:title="Settings" android:id="@+id/settings" android:icon="@drawable/settings"></item>
+</menu>
